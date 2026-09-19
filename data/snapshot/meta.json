@@ -1,0 +1,13 @@
+{
+  "fetchedAt": "2026-09-19T18:53:42.453Z",
+  "fetchedAtMs": 1789844022460,
+  "seconds": 15.5,
+  "terms": 500,
+  "reports": 200,
+  "sex": 3,
+  "serious": 2,
+  "drugs": 100,
+  "source": "openFDA drug adverse-event API",
+  "sourceUrl": "https://open.fda.gov/apis/drug/event/",
+  "licence": "openFDA data are published for public use"
+}
